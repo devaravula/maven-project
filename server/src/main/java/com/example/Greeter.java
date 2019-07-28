@@ -6,7 +6,7 @@ package com.example;
 public class Greeter {
 
   /**
-   * This is a constructor of Greeter  #######.
+   * This $$$$$$$$$$ is a constructor of Greeter  #######.
    */
   public Greeter() {
 
